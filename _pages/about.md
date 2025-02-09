@@ -75,7 +75,7 @@ My research interest includes neural machine translation and computer vision. I 
   <div class='paper-box-image'>
     <div>
       <a href='https://www.shiep.edu.cn/'>
-      <img src='images/sjtu.png' alt="sym" width="100" style="padding: 10px">
+      <img src='images/suep.jpg' alt="sym" width="100" style="padding: 10px">
       </a>
     </div>
   </div>
