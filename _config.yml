@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Pengyu Jin"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "The best answer is to be provided by oneself."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Pengyu Jin"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Shanghai Jiao Tong University"
+  avatar           : "images/pger.jpg"
+  bio              : "SJTU"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
