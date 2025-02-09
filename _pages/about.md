@@ -48,6 +48,22 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
+<div class='paper-box-right'>
+  <div class='paper-box-text' markdown="1">
+  Shanghai Jiao Tong University
+  
+  Master Student, *2023.06 - 2026.03*
+  
+  </div>
+  <div class='paper-box-image'>
+    <div>
+      <a href='https://en.sjtu.edu.cn'>
+      <img src='images/sjtu.png' alt="sym" width="100" style="padding: 10px">
+      </a>
+    </div>
+  </div>
+</div>
+
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
