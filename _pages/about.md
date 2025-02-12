@@ -24,8 +24,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 📝 Publications 
 
@@ -44,8 +44,14 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11* Renyuan Electric Scholarship  
+- *2023 & 2024* Shanghai Jiao Tong University Graduate Academic Excellence Scholarship (2nd Prize)  
+- *2023.06* Shanghai Outstanding Graduate Award  
+- *2022.11* GLTech Enterprise Scholarship  
+- *2022.11* National Encouragement Scholarship  
+- *2021 & 2022* Shanghai University of Electric Power Outstanding Student Scholarship (1st Prize)  
+- *2021.11* Lide Xiushen Scholarship (Ethical and Self-Cultivation Scholarship)  
+- *2021.08* Shanghai 3rd Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM)  
 
 # 📖 Educations
 
